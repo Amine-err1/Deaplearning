@@ -42,3 +42,4 @@ Lancer les notebooks Jupyter dans l'ordre :
 1. `part1_mlp/mlp_breast_cancer.ipynb`
 2. `part2_cnn/cnn_fashion_mnist.ipynb`
 3. `part3_rnn/rnn_imdb.ipynb`
+"# DeepLearning" 
